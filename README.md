@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://cdn.jsdelivr.net/gh/HK-SHAO/GitHub-Stats@latest/generated/overview.svg#gh-light-mode-only)
+![](https://cdn.jsdelivr.net/gh/HK-SHAO/GitHub-Stats@latest/generated/languages.svg#gh-light-mode-only)
