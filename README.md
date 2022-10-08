@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/HK-SHAO/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/HK-SHAO/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/HK-SHAO/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/HK-SHAO/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://cdn.jsdelivr.net/gh/HK-SHAO/github-stats/generated/overview.svg#gh-dark-mode-only)
+![](https://cdn.jsdelivr.net/gh/HK-SHAO/github-stats/generated/overview.svg#gh-light-mode-only)
+![](https://cdn.jsdelivr.net/gh/HK-SHAO/github-stats/generated/languages.svg#gh-dark-mode-only)
+![](https://cdn.jsdelivr.net/gh/HK-SHAO/github-stats/generated/languages.svg#gh-light-mode-only)
