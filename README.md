@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://cdn.jsdelivr.net/gh/HK-SHAO/github-stats/generated/overview.svg#gh-dark-mode-only)
-![](https://cdn.jsdelivr.net/gh/HK-SHAO/github-stats/generated/overview.svg#gh-light-mode-only)
-![](https://cdn.jsdelivr.net/gh/HK-SHAO/github-stats/generated/languages.svg#gh-dark-mode-only)
-![](https://cdn.jsdelivr.net/gh/HK-SHAO/github-stats/generated/languages.svg#gh-light-mode-only)
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/HK-SHAO/github-stats/generated/overview.svg#gh-dark-mode-only" alt="" loading="lazy" class="medium-zoom-image" data-mode="darkmode-only">
+    <img src="https://cdn.jsdelivr.net/gh/HK-SHAO/github-stats/generated/overview.svg#gh-light-mode-only" alt="" loading="lazy" class="medium-zoom-image" data-mode="lightmode-only">
+    <img src="https://cdn.jsdelivr.net/gh/HK-SHAO/github-stats/generated/languages.svg#gh-dark-mode-only" alt="" loading="lazy" class="medium-zoom-image" data-mode="darkmode-only">
+    <img src="https://cdn.jsdelivr.net/gh/HK-SHAO/github-stats/generated/languages.svg#gh-light-mode-only" alt="" loading="lazy" class="medium-zoom-image" data-mode="lightmode-only">
+</p>
