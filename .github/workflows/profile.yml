@@ -1,0 +1,41 @@
+name: Metrics
+
+on:
+  # Schedule updates (each 6 hour)
+  schedule: [{cron: "0 */6 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate_profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: left
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: 7b91e5c1e018c9e35d38669d2fbd6e97
+
+          # Options
+          user: HK-SHAO
+          template: classic
+          base: header, activity, community
+          config_timezone: Asia/Shanghai
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css
+          plugin_languages_details: lines, percentage
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_aliases: 'Jupyter Notebook:Ipynb,RenderScript:Rust'
+          commits_authoring: HK-SHAO, shaofun, 王家晔, 烧风, hk-shao@foxmail.com, hk-shao@outlook.com
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_padding: 0, 8 + 11%
+          config_order: base.header, base.activity+community, languages, habits
