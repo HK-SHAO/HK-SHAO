@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 <h4 align="center">
-  <a href="https://t.me/HKSHAO">TELEGRAM</a>&emsp;•&emsp;
-  <a href="https://shao.fun/">WEBSITE</a>&emsp;•&emsp;
-  <a href="https://space.bilibili.com/24046148">BILIBILI</a>&emsp;•&emsp;
-  <a href="https://socoding.cn/">SOCODING</a>&emsp;•&emsp;
-  <a href="https://github.com/manim-kindergarten">MANIM</a>
+<a href="https://twitter.com/HKSHAO">TWITTER</a>&emsp;•&emsp;<a href="https://shao.fun/">WEBSITE</a>&emsp;•&emsp;<a href="https://space.bilibili.com/24046148">BILIBILI</a>&emsp;•&emsp;<a href="https://socoding.cn/">SOCODING</a>&emsp;•&emsp;<a href="https://github.com/manim-kindergarten">MANIM</a>
 </h4>
 
 <div align="center">
